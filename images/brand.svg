@@ -1,0 +1,60 @@
+<svg width="35" height="28" viewBox="0 0 35 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="logo" clip-path="url(#clip0_101_911)">
+<g id="Clip path group">
+<mask id="mask0_101_911" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="27">
+<g id="SVGID_2_">
+<path id="Vector" d="M0.839966 0.825012H34.5V26.24H0.839966V0.825012Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_101_911)">
+<g id="Group">
+<g id="Clip path group_2">
+<mask id="mask1_101_911" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="35">
+<g id="SVGID_4_">
+<path id="Vector_2" d="M17.67 34.485C26.9649 34.485 34.5 26.95 34.5 17.655C34.5 8.36006 26.9649 0.825012 17.67 0.825012C8.37501 0.825012 0.839966 8.36006 0.839966 17.655C0.839966 26.95 8.37501 34.485 17.67 34.485Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_101_911)">
+<path id="Vector_3" d="M17.67 34.485C26.9649 34.485 34.5 26.95 34.5 17.655C34.5 8.36006 26.9649 0.825012 17.67 0.825012C8.37501 0.825012 0.839966 8.36006 0.839966 17.655C0.839966 26.95 8.37501 34.485 17.67 34.485Z" fill="#00D185"/>
+</g>
+</g>
+<g id="Clip path group_3">
+<mask id="mask2_101_911" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="35">
+<g id="SVGID_4__2">
+<path id="Vector_4" d="M17.67 34.485C26.9649 34.485 34.5 26.95 34.5 17.655C34.5 8.36006 26.9649 0.825012 17.67 0.825012C8.37501 0.825012 0.839966 8.36006 0.839966 17.655C0.839966 26.95 8.37501 34.485 17.67 34.485Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask2_101_911)">
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M14.695 6.435L-0.52002 26.24H29.995L14.695 6.435Z" fill="white"/>
+</g>
+</g>
+<g id="Clip path group_4">
+<mask id="mask3_101_911" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="35">
+<g id="SVGID_4__3">
+<path id="Vector_6" d="M17.67 34.485C26.9649 34.485 34.5 26.95 34.5 17.655C34.5 8.36006 26.9649 0.825012 17.67 0.825012C8.37501 0.825012 0.839966 8.36006 0.839966 17.655C0.839966 26.95 8.37501 34.485 17.67 34.485Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask3_101_911)">
+<path id="Vector_7" fill-rule="evenodd" clip-rule="evenodd" d="M28.125 9.83502L16.99 24.54H39.345L28.125 9.83502Z" fill="#00AA6E"/>
+</g>
+</g>
+<g id="Clip path group_5">
+<mask id="mask4_101_911" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="35">
+<g id="SVGID_4__4">
+<path id="Vector_8" d="M17.67 34.485C26.9649 34.485 34.5 26.95 34.5 17.655C34.5 8.36006 26.9649 0.825012 17.67 0.825012C8.37501 0.825012 0.839966 8.36006 0.839966 17.655C0.839966 26.95 8.37501 34.485 17.67 34.485Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask4_101_911)">
+<path id="Vector_9" fill-rule="evenodd" clip-rule="evenodd" d="M21.2399 7.285L5.93994 26.24H36.4549L21.2399 7.285Z" fill="#BFBFBF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_101_911">
+<rect width="34" height="26.35" fill="white" transform="translate(0.5 0.825012)"/>
+</clipPath>
+</defs>
+</svg>
